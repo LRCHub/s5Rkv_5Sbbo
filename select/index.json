@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "熱異常 / いよわ - むﾄ (cover)",
+  "base_artist": "むﾄ / Muto",
+  "createdAt": "2025-12-01T04:59:23.918300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱異常+feat.足立レイ",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/01_熱異常+feat.足立レイ_いよわ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱異常",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_熱異常_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱異常 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_熱異常_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "熱異常 feat.足立レイ",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/04_熱異常_feat.足立レイ_いよわ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱異常",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_熱異常_いよわ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "熱異常 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_02_熱異常_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_いよわ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "熱異常 (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希 & KAITO)",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_03_熱異常_(feat._宵崎奏,_朝比奈まふゆ,_東雲絵名,_暁山瑞希_&_KAITO)_いよわ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "熱異常 (feat. 足立レイ)",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_04_熱異常_(feat._足立レイ)_いよわ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "熱異常",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_05_熱異常_いよわ.txt"
+    }
+  ]
+}
